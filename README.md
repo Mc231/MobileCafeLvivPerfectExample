@@ -12,4 +12,4 @@ Example of code from Mobile Cafe from 01/03/2018
 2.1.2 <i>Choose <b> PerfectExample target</b> in targets</i> </br>
 2.1.3 <i>Run project</i> </br>
 <b> Linux or Manual Build </b> </br>
-2.2 <i>Run project ——— </i>  "In terminal type.build/debug/PerfectExample"
+2.2 <i>Run project ——— </i>  In terminal type ".build/debug/PerfectExample"
